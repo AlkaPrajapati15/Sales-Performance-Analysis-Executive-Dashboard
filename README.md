@@ -1,7 +1,9 @@
 #*Sales Performance Dashboard*#
+
 An interactive Sales Performance Dashboard built using Microsoft Excel and Microsoft Power BI to analyze retail sales data from the Superstore dataset. The project demonstrates end-to-end business intelligence skills including data cleaning, data modeling, KPI development, dashboard design, and interactive data visualization.
 
  Project Overview
+
 Businesses generate large amounts of sales data every day, but raw data alone does not provide meaningful insights. The objective of this project is to transform raw sales data into an interactive dashboard that enables business users to monitor performance, identify trends, compare regional sales, evaluate product performance, and make data-driven decisions.
 The dashboard was designed following industry-standard dashboard development practices commonly used by Business Intelligence, FP&A, and Data Analytics teams.
 
@@ -16,6 +18,7 @@ The dashboard was designed following industry-standard dashboard development pra
 - Create an executive-level reporting dashboard.
 
 	Dataset
+
 Dataset: Superstore Sales Dataset
 The dataset contains retail transaction data including:
 - Orders
@@ -42,6 +45,7 @@ Tools Used:
 - Data Modeling
 
 	Excel Dashboard Features
+
 The Excel dashboard was developed to provide interactive business reporting using native Excel functionality.
 
  Features:
@@ -57,6 +61,7 @@ The Excel dashboard was developed to provide interactive business reporting usin
 - Dynamic Filtering
 
 	Power BI Dashboard Features
+
 The Power BI dashboard was designed as an executive reporting dashboard with interactive visuals.
 
 Dashboard includes:
@@ -73,6 +78,7 @@ Dashboard includes:
 - Business Insights
 
 	Key Performance Indicators (KPIs)
+
 The dashboard tracks the following business metrics:
 - Total Sales
 - Total Profit
@@ -81,6 +87,7 @@ The dashboard tracks the following business metrics:
 - Total Customers
 
 	Business Questions Answered
+
 The dashboard helps answer the following business questions:
 - What is the total sales performance?
 - Which region generates the highest sales?
@@ -92,6 +99,7 @@ The dashboard helps answer the following business questions:
 - How do different filters affect business performance?
 
 	Dashboard Visuals
+
 The dashboard includes:
 - KPI Cards
 - Monthly Sales Trend
@@ -120,6 +128,7 @@ Excel Dashboard
 Power BI Dashboard 
 
 	Skills Demonstrated
+
 This project demonstrates practical skills in:
 - Data Cleaning
 - Data Preparation
@@ -135,6 +144,7 @@ This project demonstrates practical skills in:
 - Analytical Thinking
 
 	Learning Outcomes
+
 Through this project I gained hands-on experience in:
 - Building professional Excel dashboards
 - Designing interactive Power BI dashboards
@@ -147,6 +157,7 @@ Through this project I gained hands-on experience in:
 - Presenting business insights through dashboards
 
 	Future Improvements
+
 Future enhancements may include:
 - Forecasting and predictive analysis
 - Customer segmentation
