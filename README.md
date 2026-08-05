@@ -1,4 +1,4 @@
-Sales Performance Dashboard
+Sales Performance Dashboard:-
 An interactive Sales Performance Dashboard built using Microsoft Excel and Microsoft Power BI to analyze retail sales data from the Superstore dataset. The project demonstrates end-to-end business intelligence skills including data cleaning, data modeling, KPI development, dashboard design, and interactive data visualization.
 
 	Project Overview
